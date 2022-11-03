@@ -1,7 +1,7 @@
 # kirsch-problem-fea
 Program to solve Kirsch problem of a plate with a hole in the center.
 Model of a plate was created with the help of Ansys SpaceClaim and pre-processed in LS-PrePost.
-Algorithm of a program is described in a paper by Zienkiewicz.
+Algorithm of a program is described in the paper by Zienkiewicz.
 
 1/4 of a plate without loads applied
 ![Без названия](https://user-images.githubusercontent.com/112722254/188269464-836138a3-53ab-43ed-8f1f-ea7c589a4ce2.png)
